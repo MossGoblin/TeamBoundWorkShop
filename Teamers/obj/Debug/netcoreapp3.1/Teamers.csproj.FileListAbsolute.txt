@@ -11,3 +11,16 @@ D:\[ CODEE ]\[ GITTED ]\Teamers\Teamers\Teamers\obj\Debug\netcoreapp3.1\Teamers.
 D:\[ CODEE ]\[ GITTED ]\Teamers\Teamers\Teamers\obj\Debug\netcoreapp3.1\Teamers.dll
 D:\[ CODEE ]\[ GITTED ]\Teamers\Teamers\Teamers\obj\Debug\netcoreapp3.1\Teamers.pdb
 D:\[ CODEE ]\[ GITTED ]\Teamers\Teamers\Teamers\obj\Debug\netcoreapp3.1\Teamers.genruntimeconfig.cache
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.exe
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.deps.json
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.runtimeconfig.json
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.runtimeconfig.dev.json
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.dll
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\bin\Debug\netcoreapp3.1\Teamers.pdb
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.csprojAssemblyReference.cache
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.AssemblyInfoInputs.cache
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.AssemblyInfo.cs
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.csproj.CoreCompileInputs.cache
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.dll
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.pdb
+D:\[ CODEE ]\[ GITTED ]\TeamBoundWorkShop\Teamers\obj\Debug\netcoreapp3.1\Teamers.genruntimeconfig.cache

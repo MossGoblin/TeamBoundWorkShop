@@ -7,26 +7,29 @@ namespace Teamers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            bool checkRes = true;
+            Console.WriteLine("START");
+
+            // Init Factory
             Factory factory = new Factory();
+            IDMint idMint = new IDMint();
 
-            List<string> agentList = new List<string>() {"agent One", "agent Two", "asdasd", "123qweasdzsc", "something", "something else"};
+            // Init Producers
+            AgentProducer agentProducer = new AgentProducer(idMint);
+            factory.RegisterProducer("Agents", agentProducer);
+            
+            // Create a couple of products
+            Agent prd01 = (Agent)factory.GetProduct("Agents", "agent01");
+            Agent prd02 = (Agent)factory.GetProduct("Agents", "agent02");
 
-            foreach (string agentName in agentList)
-            {
-                Agent newAgent = factory.getAgent(agentName);
-                System.Console.WriteLine($"ID: {newAgent.ID} // Name {newAgent.Name}");
-            }
-            System.Console.WriteLine(factory.ToString());
+            // Delete a product
+            checkRes = factory.RemoveProduct("Agents", "agent03");
+            checkRes = factory.RemoveProduct("Agents", "agent02");
 
-            for (int id = 0; id < 7; id++)
-            {
-                if (id % 2 ==0)
-                {
-                    factory.removeAgent(id);
-                }
-            }
-            System.Console.WriteLine(factory.ToString());
+            // Create a couple of products
+            Agent prd03 = (Agent)factory.GetProduct("Agents", "agent03");
+            Agent prd04 = (Agent)factory.GetProduct("Agents", "agent04");
+
         }
-    } 
+    }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\[ CODEE ]\\[ GITTED ]\\Teamers\\Teamers\\Teamers\\Teamers.csproj": {}
+    "D:\\[ CODEE ]\\[ GITTED ]\\TeamBoundWorkShop\\Teamers\\Teamers.csproj": {}
   },
   "projects": {
-    "D:\\[ CODEE ]\\[ GITTED ]\\Teamers\\Teamers\\Teamers\\Teamers.csproj": {
+    "D:\\[ CODEE ]\\[ GITTED ]\\TeamBoundWorkShop\\Teamers\\Teamers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\[ CODEE ]\\[ GITTED ]\\Teamers\\Teamers\\Teamers\\Teamers.csproj",
+        "projectUniqueName": "D:\\[ CODEE ]\\[ GITTED ]\\TeamBoundWorkShop\\Teamers\\Teamers.csproj",
         "projectName": "Teamers",
-        "projectPath": "D:\\[ CODEE ]\\[ GITTED ]\\Teamers\\Teamers\\Teamers\\Teamers.csproj",
+        "projectPath": "D:\\[ CODEE ]\\[ GITTED ]\\TeamBoundWorkShop\\Teamers\\Teamers.csproj",
         "packagesPath": "C:\\Users\\hugol\\.nuget\\packages\\",
-        "outputPath": "D:\\[ CODEE ]\\[ GITTED ]\\Teamers\\Teamers\\Teamers\\obj\\",
+        "outputPath": "D:\\[ CODEE ]\\[ GITTED ]\\TeamBoundWorkShop\\Teamers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
